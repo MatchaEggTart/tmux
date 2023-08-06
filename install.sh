@@ -6,3 +6,4 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 tmux source-file ~/.tmux.conf
 
 # sudo dnf install xclip -y
+# sudo dnf install xsel -y
