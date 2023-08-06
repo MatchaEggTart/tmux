@@ -426,6 +426,7 @@ set -g @plugin 'tmux-plugins/tmux-continuum'
 set -g @continuum-save-interval '15'
 set -g @continuum-restore 'on'
 set -g @resurrect-capture-pane-contents 'on'
+set-option -g escape-time 0
 
 run-shell ~/.tmux/plugins/tmux-cpu/cpu.tmux
 # -- custom variables ----------------------------------------------------------
