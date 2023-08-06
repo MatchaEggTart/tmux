@@ -1,2 +1,2 @@
 # sh ~/.config/tmux/plugins/copycat.tmux
-sh ~/.config/tmux/plugins/cpu.tmux
+sh ~/.config/tmux/plugins/tmux-cpu/cpu.tmux
